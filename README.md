@@ -1,6 +1,6 @@
 # Minecraft Item Upgrade Plugin
 
-Minecraft Item Upgrade to plugin, który umożliwia graczom ulepszanie przedmiotów na serwerze. Dzięki prostym komendom można ulepszać przedmioty za pomocą tokenów lub określonych materiałów. Plugin pozwala również na przeładowanie konfiguracji w locie.
+Minecraft Item Upgrade to plugin, który umożliwia graczom ulepszanie przedmiotów na serwerze. Dzięki prostym komendom można ulepszać przedmioty za pomocą tokenów lub określonych materiałów. Plugin pozwala również na przeładowanie konfiguracji.
 
 ## Funkcje
 - **Ulepszanie przedmiotów za pomocą tokenów**: Gracze mogą ulepszać swoje przedmioty za pomocą tokenów.
