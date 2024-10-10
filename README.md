@@ -37,9 +37,7 @@ Poniżej znajduje się zrzut ekranu prezentujący gui z komendy `/ulepsz-rudy`:
 
 ## Konfiguracja
 
-Plugin automatycznie tworzy plik konfiguracyjny, w którym można dostosować:
-
-- **Dozwolone komendy**: Ustaw, które komendy są dostępne dla gracza w trakcie ulepszania.
+Plugin automatycznie tworzy plik konfiguracyjny:
 
 ### Przykład konfiguracji (`config.yml`):
 
